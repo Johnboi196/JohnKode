@@ -1,0 +1,27 @@
+li {
+    list-style-type: none;
+}
+.image{
+    height: 370px;
+    width: 630px;
+    margin-right:10px;
+}
+.back{
+    position: relative;
+    top: 40px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border-radius:6px;
+    background-color: rgba(255, 62, 62, 0.557);
+    padding: 1.28%;
+    font-weight: lighter;
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: border-width 80ms linear 100ms;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
